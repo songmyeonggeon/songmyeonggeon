@@ -8,11 +8,11 @@ Here are some ideas to get you started:
 
 🏫 출신학교
 -------------
-  안산서초등학교 졸업   
-  안산청석초등학교 졸업   
-  안산해양중학교 졸업   
-  초지고등학교 졸업   
-  한세대학교 재학중   
+    안산서초등학교 졸업   
+    안산청석초등학교 졸업   
+    안산해양중학교 졸업   
+    초지고등학교 졸업   
+    한세대학교 재학중   
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
