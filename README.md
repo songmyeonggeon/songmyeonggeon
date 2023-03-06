@@ -1,10 +1,11 @@
-### Hi there 👋
+### 송명건의 자기소개 👋
 
 <!--
 **songmyeonggeon/songmyeonggeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+안녕하세요! ICT융합학과 3학년 학우이자 학회장인 송명건입니다. 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
